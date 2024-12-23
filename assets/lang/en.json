@@ -1,0 +1,42 @@
+{
+    "title": "Miqdad's Portfolio",
+    "menu": {
+        "home": "Home",
+        "about": "About",
+        "skill": "Skill",
+        "project": "Project",
+        "achievement": "Achievement"
+    },
+    "home": {
+        "greeting": "HELLO, I'M MIQDAD",
+        "job": "A Front End Web Developer",
+        "description": "I am passionate about creating responsive and visually appealing websites. I specialize in building user-friendly interfaces using modern technologies like HTML, CSS, and JavaScript. My focus is on delivering seamless user experiences and crafting web designs that adapt beautifully across all devices.",
+        "button": "My CV"
+    },
+    "about": {
+        "title": "About Me",
+        "description": "Hello my name is Miqdad Fauzan Ghozwatulhaq, i'm A Mechatronics and Artificial Intelligence student at Indonesia University of Education with experience in leadership and organizational management. Skilled as an Organization Chairperson and as a staff member in Organizational Development and Student Welfare Advocacy. Proficient in UI/UX design and front-end web development, with expertise in HTML, CSS, and JavaScript. Committed to continuous learning and contributing to the creation of innovative and responsive user interfaces. Currently, I am enthusiastic about advancing my career as a Front-End Web Developer in a dynamic professional environment."
+    },
+    "skill": {
+        "title": "Skill",
+        "list": ["HTML", "CSS", "JavaScript", "Python"]
+    },
+    "project": {
+        "title": "Project",
+        "ecommerce": {
+            "title": "E-commerce Website Maisondesonder",
+            "description": "Developed a fully functional e-commerce website for fashion products, focusing on user-friendly design and responsive interfaces. The website includes a product catalog feature that directly connects to Shopee.",
+            "button": "Check Website"
+        },
+        "mapala": {
+            "title": "P.A.S Mahaguru Website (Bootcamp Assignment)",
+            "description": "This is a simple website project I developed as part of a bootcamp assignment. The website is designed to deliver an intuitive user experience and fulfill the objectives outlined during the course.",
+            "button": "Check Website"
+        }
+    },
+    "achievement": {
+        "title": "Achievement",
+        "certificates": ["IDCamp Certificate", "MySkill Certificate"]
+    },
+    "footer": "Designed and Built by Miqdad Fauzan Ghozwatulhaq"
+}
