@@ -633,6 +633,10 @@ footer span{
   body{
     margin: 0;
   }
+    
+  #typing-container{
+    font-size: 20px;
+  }
 
   header{
     display: flex;
