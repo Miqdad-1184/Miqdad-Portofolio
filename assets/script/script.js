@@ -151,8 +151,8 @@ function setLanguage(lang) {
 document.addEventListener("DOMContentLoaded", () => {
     const langToggleButtons = document.querySelectorAll("#language-toggle button");
     const langFiles = {
-        en: "assets/lang/en.json",
-        id: "assets/lang/id.json"
+        en: "en.json",
+        id: "id.json"
     };
     let currentLanguage = "en";
 
