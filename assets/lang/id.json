@@ -1,0 +1,42 @@
+{
+  "title": "Portofolio Miqdad",
+  "menu": {
+      "home": "Beranda",
+      "about": "Tentang",
+      "skill": "Keahlian",
+      "project": "Proyek",
+      "achievement": "Pencapaian"
+  },
+  "home": {
+      "greeting": "HALLO, SAYA MIQDAD",
+      "job": "Seorang Front End Web Developer",
+      "description": "Saya memiliki passion dalam menciptakan website yang responsif dan menarik secara visual. Saya ahli dalam membangun antarmuka pengguna yang ramah menggunakan teknologi modern seperti HTML, CSS, dan JavaScript. Fokus saya adalah memberikan pengalaman pengguna yang mulus dan mendesain web yang dapat menyesuaikan dengan baik di berbagai perangkat.",
+      "button": "CV Saya"
+  },
+  "about": {
+      "title": "Tentang Saya",
+      "description": "Hallo nama saya Miqdad Fauzan Ghozwatulhaq, Mahasiswa Mekatronika dan Kecerdasan Buatan di Universitas Pendidikan Indonesia dengan pengalaman kepemimpinan dan pengelolaan organisasi. Berpengalaman sebagai Ketua Umum organisasi serta staf di bidang Pengembangan Sumber Daya Organisasi dan Advokasi Kesejahteraan Mahasiswa. Memiliki keahlian dalam desain UI/UX dan pengembangan web front-end, dengan penguasaan teknologi HTML, CSS, dan JavaScript. Berkomitmen untuk terus belajar dan berkontribusi dalam menciptakan antarmuka pengguna yang inovatif dan responsif. Saat ini, saya antusias untuk mengembangkan karier sebagai Front-End Web Developer di lingkungan profesional yang dinamis."
+  },
+  "skill": {
+      "title": "Keahlian",
+      "list": ["HTML", "CSS", "JavaScript", "Python"]
+  },
+  "project": {
+      "title": "Proyek",
+      "ecommerce": {
+          "title": "Website E-commerce Maisondesonder",
+          "description": "MMengembangkan website e-commerce untuk produk fashion yang sepenuhnya fungsional dengan fokus pada desain yang ramah pengguna dan antarmuka yang responsif. Website ini dilengkapi dengan fitur katalog produk yang terhubung langsung ke shopee.",
+          "button": "Lihat Website"
+      },
+      "mapala": {
+          "title": "Website P.A.S Mahaguru (Tugas Bootcamp)",
+          "description": "Ini adalah proyek situs web sederhana yang saya kembangkan sebagai bagian dari tugas bootcamp. Situs web ini dirancang untuk memberikan pengalaman pengguna yang intuitif dan memenuhi tujuan yang ditetapkan selama kursus.",
+          "button": "Lihat Website"
+      }
+  },
+  "achievement": {
+      "title": "Pencapaian",
+      "certificates": ["Sertifikat IDCamp", "Sertifikat MySkill"]
+  },
+  "footer": "Dirancang dan Dibangun oleh Miqdad Fauzan Ghozwatulhaq"
+}
